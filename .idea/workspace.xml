@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2a70dc3-53b5-4ba7-817e-ea784468303b" name="Changes" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/workout.py" beforeDir="false" afterPath="$PROJECT_DIR$/workout.py" afterDir="false" />
-    </list>
+    <list default="true" id="c2a70dc3-53b5-4ba7-817e-ea784468303b" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CollinHebert"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CollinHebert/workout_generator.git",
+    "accountId": "a94e4416-ab8f-4c5d-93d5-8dcbf0db9359"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -55,7 +65,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740459090945</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1740459240725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740459240725</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1740459261437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740459261437</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1740459276301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740459276301</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1740459340963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740459340963</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
