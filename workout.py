@@ -25,4 +25,3 @@ def workout_generator():
     print(f"Your workout is: {workout}")
 
 workout_generator()
-#test
