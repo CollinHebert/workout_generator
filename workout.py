@@ -25,4 +25,4 @@ def workout_generator():
     print(f"Your workout is: {workout}")
 
 workout_generator()
-#this is a test to fix commit
+#this is a test to fix commit 2
